@@ -18,7 +18,7 @@ My research focuses on **large audio-language models for audio and speech unders
 # 🔥 News
 - *2026.09*: &nbsp;📢 [VoiceTrace](https://arxiv.org/abs/2609.18521), a benchmark and framework for who-said-what speech retrieval, is on arXiv.
 - *2026.06*: &nbsp;📢 [ALM2Vec](https://arxiv.org/abs/2606.30682), universal audio retrieval with large audio-language models, is on arXiv.
-- *2026*: &nbsp;🎉 [IVQ](https://openreview.net/forum?id=Y3cUZ8fNnu) is accepted to **ICML 2026**!
+- *2026.04*: &nbsp;🎉 [IVQ](https://openreview.net/forum?id=Y3cUZ8fNnu) is accepted to **ICML 2026**!
 
 # 📝 Publications 
 
@@ -57,6 +57,21 @@ Aaron Yee, **Fengjie Lu**, Jiarui Hai, Chenang Jiang, Helin Wang, Siwei Tu, Weit
 [**arXiv**](https://arxiv.org/abs/2609.18521)
 - VoiceTrace-Bench: each query pairs a description of *what* was said with a reference clip of *who* said it.
 - A two-stage embed-then-rerank retriever that outperforms cascade baselines.
+</div>
+</div>
+
+# 💻 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mini Program</div><img src='images/solvane.png' alt="Solvane" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Solvane: Say it in Chinese, learn to say it in English](https://github.com/frankie137/solvane)
+
+Personal project · uni-app (Vue 3 + TypeScript), WeChat CloudBase, LLM, Tencent Cloud ASR/TTS
+
+[**Code**](https://github.com/frankie137/solvane)
+- A WeChat mini program that turns what you want to say in Chinese, spoken or typed, into polished Chinese and idiomatic English, aligned sentence by sentence, with notes on key expressions, slang and cultural background.
+- Listen to a demo reading, recite with the text hidden and get a pronunciation score; save sessions into folders, or share your recording as a lyrics-style page.
 </div>
 </div>
 
